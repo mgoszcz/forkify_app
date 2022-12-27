@@ -11,7 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.1",
-    "parcel": "^2.8.1"
+    "parcel": "^2.8.1",
+    "lodash-es": "^4.17.21"
   },
   "dependencies": {
     "fractional": "^1.0.0"
