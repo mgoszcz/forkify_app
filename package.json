@@ -15,6 +15,7 @@
     "lodash-es": "^4.17.21"
   },
   "dependencies": {
-    "fractional": "^1.0.0"
+    "fractional": "^1.0.0",
+    "core-js": "^3.27.0"
   }
 }
